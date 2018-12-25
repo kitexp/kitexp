@@ -1,3 +1,0 @@
-# Paradox Site
-
-Nicely themed.
